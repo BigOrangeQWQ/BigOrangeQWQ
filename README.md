@@ -3,9 +3,9 @@
 
 我 -> 一个普通的大一学生
 
-   -> 正在学习c/kotlin/c++/python
+   -> 正在学习c/kotlin/c++/python..
    
-   -> 拥有许多的 shit code style repository
+   -> 创建了许多奇怪的仓库
    
    -> 欢迎大佬指点！
    
