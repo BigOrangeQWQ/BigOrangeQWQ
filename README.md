@@ -9,4 +9,3 @@
    
    -> 欢迎大佬指点！
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigOrangeQWQ&show_icons=true&theme=gruvbox)](https://github.com/BigOrangeQWQ/BigOrangeQWQ)
