@@ -6,5 +6,5 @@
    -> 拥有许多的 shit code style repository
    -> 欢迎大佬指点！
    
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OrangeQWQ)](https://github.com/anuraghazra/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OrangeQWQ)]
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigOrangeQWQ&show_icons=true&theme=gruvbox)
