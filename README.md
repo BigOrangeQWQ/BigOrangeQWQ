@@ -1,14 +1,11 @@
 
-### Hi👋 欢迎你，这里是BigOrangeQWQ的主页
+### Hi👋 Welcome，this is the home page of BigOrangeQWQ
 
-我 -> 一个普通的大一学生
+ME -> An average freshman
 
-   -> 正在学习编程相关知识
+   -> Now learn about rust and python
    
-   -> 创建了许多奇怪的仓库
-   
-   ->  欢迎大佬指点！
+   -> Welcome advice me 
    
    
-   
-   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigOrangeQWQ&layout=compact)]
