@@ -8,4 +8,4 @@ ME -> An average freshman
    -> Welcome advice me 
    
    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigOrangeQWQ&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigOrangeQWQ&layout=compact)
